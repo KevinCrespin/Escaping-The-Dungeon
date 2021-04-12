@@ -23,6 +23,5 @@ Download this repository and run the Escaping The Dungeon.exe file.
 ## Screen Shots
 
 ![Demo](img/1.png)
-![Demo](img/2.png)
 
 
