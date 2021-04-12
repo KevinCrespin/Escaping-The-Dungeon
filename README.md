@@ -15,13 +15,14 @@ Download this repository and run the Escaping The Dungeon.exe file.
     (Pause)             ESC
     (UI Interaction)    Mouse
     
+## Screen Shots
+
+![Demo](img/1.png)
+    
 ## Technologies Used
 
 - Unity
 - C#
 
-## Screen Shots
-
-![Demo](img/1.png)
 
 
